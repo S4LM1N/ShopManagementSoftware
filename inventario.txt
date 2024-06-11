@@ -1,0 +1,9 @@
+Nome,Codice,Prezzo,Quantita
+Patatine,AN12341,2.0,20
+Mouse,GH12312,40.0,5
+Gioco,AF12314,5.0,50
+Barretta,BV123141,2.0,15
+Latte,AB12345,143.0,10
+Bo3,5030917162572,60.0,5
+ciao,123,51.0,51
+123,123,123.0,123
