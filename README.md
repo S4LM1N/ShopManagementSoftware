@@ -1,4 +1,4 @@
-# Applicazione per la gestione dell'inventario e il tracciamento delle vendite
+# App per la gestione dell'inventario e il tracciamento delle vendite
 
 ![Gui Applicazione](app.png)
 
