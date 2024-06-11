@@ -6,7 +6,7 @@ package sal.gui;
 
 /**
  *
- * @author Salvatore Minasol
+ * @author Salvatore Minasola
  */
 public class errorMsg extends javax.swing.JDialog {
 
