@@ -1,27 +1,28 @@
-# App per la gestione dell'inventario e il tracciamento delle vendite
+# Software to manage inventory and sales of a shop
 
 ![Gui Applicazione](app.png)
 
-## Descrizione
+## Description
 
-Questa è un'applicazione di gestione dell'inventario e delle vendite  di una tabaccheria progettata per semplificare il processo di monitoraggio e gestione delle merci in magazzino e delle transazioni di vendita. L'applicazione offre una piattaforma intuitiva e facile da usare per tenere traccia dell'inventario disponibile, gestire le vendite e visualizzare l'andamento delle vendite tramite grafici.
+This is a tobacco shop inventory and sales management application designed to simplify the process of tracking and managing inventory goods and sales transactions. The application offers an intuitive and easy-to-use platform to track available inventory, manage sales and view sales performance via graphs.
 
-## Caratteristiche Principali
+## Main features
 
-- **Gestione dell'Inventario**: Mantiene un registro accurato delle merci disponibili nel magazzino, inclusi dettagli come nome del prodotto, quantità disponibile, prezzo unitario e altro ancora.
-- **Gestione delle Vendite**: Registra transazioni di vendita in modo efficiente, tenendo traccia di prodotti venduti, quantità, prezzi.
-- **Statistiche Vendite**: Genera statistiche personalizzate sull'andamento delle vendite, l'inventario disponibile e altre metriche chiave per analizzare le prestazioni del business.
-- **Interfaccia Intuitiva**: L'interfaccia utente è progettata per essere intuitiva e facile da navigare, riducendo al minimo la curva di apprendimento per gli utenti.
-- **Salvataggio dei Dati**: I dati vengono memorizzati all'interno di file in formato txt in modo da essere facilemente leggibili.
+- **Inventory Management**: Maintains an accurate record of the goods available in the warehouse, including details such as product name, available quantity, unit price and more.
+- **Sales Management**: Record sales transactions efficiently, keeping track of products sold, quantities, prices.
+- **Sales Statistics**: Generate customized statistics on sales performance, available inventory and other key metrics to analyze business performance.
+- **Intuitive Interface**: The user interface is designed to be intuitive and easy to navigate, minimizing the learning curve for users.
+- **Data Saving**: The data is stored in files in txt format so as to be easily readable.
 
-## Installazione
+## How to install
 
-Per utilizzare l'applicazione, segui questi passaggi:
+To use the application, follow these steps:
 
-1. **Clona il repository**
-2. **Aggiungi la libreria jFreeChart 1.5.4 e absoluteLayout**
-3. **Avvia l'applicazione**
+1. **Clone the repository**
+2. **Add jFreeChart 1.5.4 library and absoluteLayout**
+3. **Launch the application**
 
-## Licenza
 
-Questo progetto è sotto licenza [MIT](LICENSE).
+## License
+
+This project is licensed under [MIT](LICENSE).
